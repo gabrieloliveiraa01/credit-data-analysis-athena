@@ -153,7 +153,9 @@ Gabriel Oliveira
 📊 Junior Data Analyst
 
 🔗 LinkedIn: https://www.linkedin.com/in/gabrieloliveiraa01
+
 🔗 GitHub: https://github.com/gabrieloliveiraa01
+
 🔗 Kaggle: https://www.kaggle.com/gabrieloliveira01
 
 ---
